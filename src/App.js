@@ -20,7 +20,6 @@ export default function App() {
     <Protifilio/>
     <Reviews/>
     <Cta/>
-
     <Footer/>
 
   </>
