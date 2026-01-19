@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shorbay-Agence/static/css/main.4a1fd2c8.css",
-    "main.js": "/shorbay-Agence/static/js/main.117ff3ce.js",
+    "main.css": "/shorbay-Agence/static/css/main.a2f95038.css",
+    "main.js": "/shorbay-Agence/static/js/main.0489fd9e.js",
     "static/js/453.c0dbd766.chunk.js": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js",
     "static/media/project2.jpg": "/shorbay-Agence/static/media/project2.c8de542e2dd44f58d938.jpg",
     "static/media/project1.jpg": "/shorbay-Agence/static/media/project1.b3f2954a7831ad21938e.jpg",
@@ -11,12 +11,12 @@
     "static/media/hero.png": "/shorbay-Agence/static/media/hero.5fb7212170870432b5b4.png",
     "static/media/about.jpg": "/shorbay-Agence/static/media/about.bdd955cb28a57715ae9a.jpg",
     "index.html": "/shorbay-Agence/index.html",
-    "main.4a1fd2c8.css.map": "/shorbay-Agence/static/css/main.4a1fd2c8.css.map",
-    "main.117ff3ce.js.map": "/shorbay-Agence/static/js/main.117ff3ce.js.map",
+    "main.a2f95038.css.map": "/shorbay-Agence/static/css/main.a2f95038.css.map",
+    "main.0489fd9e.js.map": "/shorbay-Agence/static/js/main.0489fd9e.js.map",
     "453.c0dbd766.chunk.js.map": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a1fd2c8.css",
-    "static/js/main.117ff3ce.js"
+    "static/css/main.a2f95038.css",
+    "static/js/main.0489fd9e.js"
   ]
 }
