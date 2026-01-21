@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shorbay-Agence/static/css/main.a2f95038.css",
-    "main.js": "/shorbay-Agence/static/js/main.0489fd9e.js",
+    "main.css": "/shorbay-Agence/static/css/main.6dde7322.css",
+    "main.js": "/shorbay-Agence/static/js/main.2dbdd4af.js",
     "static/js/453.c0dbd766.chunk.js": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js",
-    "static/media/project2.jpg": "/shorbay-Agence/static/media/project2.c8de542e2dd44f58d938.jpg",
-    "static/media/project1.jpg": "/shorbay-Agence/static/media/project1.b3f2954a7831ad21938e.jpg",
-    "static/media/project3.jpg": "/shorbay-Agence/static/media/project3.62442e8e7b59c938ddad.jpg",
-    "static/media/project4.jpg": "/shorbay-Agence/static/media/project4.9f29f236da8bcac3c26e.jpg",
-    "static/media/hero_bg.jpg": "/shorbay-Agence/static/media/hero_bg.143108a08405186c42ba.jpg",
-    "static/media/hero.png": "/shorbay-Agence/static/media/hero.5fb7212170870432b5b4.png",
+    "static/media/hero.png": "/shorbay-Agence/static/media/hero.211392714ca272fe50ca.png",
+    "static/media/hero_bg.jpg": "/shorbay-Agence/static/media/hero_bg.202101d52af1fd0f1b2b.jpg",
     "static/media/about.jpg": "/shorbay-Agence/static/media/about.bdd955cb28a57715ae9a.jpg",
+    "static/media/project2.jpg": "/shorbay-Agence/static/media/project2.2338327d6db7b82258aa.jpg",
+    "static/media/project4.jpg": "/shorbay-Agence/static/media/project4.c3831f2589f62482db23.jpg",
+    "static/media/project3.jpg": "/shorbay-Agence/static/media/project3.9386fe67f15154467c19.jpg",
+    "static/media/project1.jpg": "/shorbay-Agence/static/media/project1.1512532f5e62f2f135fe.jpg",
     "index.html": "/shorbay-Agence/index.html",
-    "main.a2f95038.css.map": "/shorbay-Agence/static/css/main.a2f95038.css.map",
-    "main.0489fd9e.js.map": "/shorbay-Agence/static/js/main.0489fd9e.js.map",
+    "main.6dde7322.css.map": "/shorbay-Agence/static/css/main.6dde7322.css.map",
+    "main.2dbdd4af.js.map": "/shorbay-Agence/static/js/main.2dbdd4af.js.map",
     "453.c0dbd766.chunk.js.map": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2f95038.css",
-    "static/js/main.0489fd9e.js"
+    "static/css/main.6dde7322.css",
+    "static/js/main.2dbdd4af.js"
   ]
 }
