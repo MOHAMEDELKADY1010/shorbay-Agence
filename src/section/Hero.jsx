@@ -16,7 +16,7 @@ const Hero = () => {
   return (
     <div
       id='hero'
-      className='w-full h-screen relative flex flex-col lg:flex-row justify-between items-center
+      className='w-full min-h-screen relative flex flex-col lg:flex-row justify-between items-center
       px-4 sm:px-6 md:px-12 lg:px-20 pt-20 sm:pt-24 lg:pt-36 pb-16 sm:pb-20 lg:pb-28 gap-8 sm:gap-10 lg:gap-16
       bg-cover bg-center overflow-hidden'
       style={{

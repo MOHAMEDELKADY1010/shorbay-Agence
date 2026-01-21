@@ -15,8 +15,7 @@ const Protifilio = () => {
   return (
    <div id='projects' className='w-full h-auto flex flex-col items-center
             justify-center lg:px-[80px] px-[20px] lg:py-[80px] py-[60px] 
-            gap-[20px] bg-cover
-            bg-center' style={{ backgroundImage: `url(${backgroundimage})` }}>
+            gap-[20px] bg-cover bg-center' style={{ backgroundImage: `url(${backgroundimage})` }}>
         <h1 data-aos="zoom-in" data-aos-delay="50" className='text-themegreen
         uppercase text-sm font-poppins'>OUR PORTFOLIO
         </h1>
