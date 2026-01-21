@@ -31,23 +31,23 @@ export const services = [
 export const projects = [
   {
     img: project1,
-    title: 'Cloud Migration for TechCorp',
-    para: 'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et.',
+    title: 'Digital Marketing Team',
+    para: 'A dedicated team specialized in creating and managing digital marketing campaigns that drive growth and increase brand visibility.'
   },
   {
     img: project2,
-    title: 'Cloud Migration for TechCorp',
-    para: 'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et.',
+    title: 'Content Creation Team',
+    para: 'Creative professionals responsible for producing engaging content, visuals, and marketing ideas that reflect the brand identity.'
   },
   {
     img: project3,
-    title: 'Cloud Migration for TechCorp',
-    para: 'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et.',
+    title: 'Social Media Management',
+    para: 'Experts in managing social media platforms, engaging with audiences, scheduling posts, and building strong online communities.'
   },
   {
     img: project4,
-    title: 'Cloud Migration for TechCorp',
-    para: 'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et.',
+    title: 'Analytics & Strategy Team',
+    para: 'Focused on analyzing performance data, tracking results, and optimizing marketing strategies to achieve the best outcomes.'
   },
 ]
 
