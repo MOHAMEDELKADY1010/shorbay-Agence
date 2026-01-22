@@ -21,7 +21,9 @@ export default function App() {
     <div className='overflow-y-hidden'>
     <Reviews/> 
     </div>
+    <div className='overflow-y-hidden'>
     <Cta/>
+    </div>
     <Footer/>
 
   </>

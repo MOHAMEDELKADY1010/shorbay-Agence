@@ -54,50 +54,50 @@ export const projects = [
 export const reviews = [
   {
     rating:'4.8',
-    about:'Feugiat malesuada convallis egestas bibendum. Justo sit mattis sit suspendisse non fermentum egestas morbi sit. Pretium placerat elementum dignissim vel.',
-    name:'John Doe',
-    role: 'software developer'
+    about:'A game-changer for Shelter Restaurant. Their creative strategies significantly boosted our visibility and customer traffic. Highly professional team and results-driven!"',
+    name:'Mr. Ehab ELmekawy',
+    role: 'Shelter Restaurant'
   },
   {
     rating:'3.5',
-    about:'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et',
-    name:'Robert Doe',
-    role: 'android developer'
+    about:'They positioned Hamed Abdallah Optical perfectly in the market. Their creative campaigns showcased our products in a modern, premium way Exceptional results',
+    name:'Mr: Ahmed Hamed Abdallah',
+    role: 'Hamed Abdallah Optical'
   },
   {
     rating:'4.2',
-    about:'Feugiat malesuada convallis egestas bibendum. Justo sit mattis sit suspendisse non fermentum egestas morbi sit. Pretium placerat elementum dignissim vel.',
-    name:'Steve Kingson',
-    role: 'UI/UX designer'
+    about:'The team took Fattouma Restaurant to a whole new level Their marketing expertise significantly increased our reach and orders. Highly recommended',
+    name:'Mr:Karim Abou El-Magd',
+    role: 'Fattouma Restaurant'
   },
   {
     rating:'3.9',
-    about:'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et',
-    name:'Alex Grim',
-    role: 'Web Developer'
+    about:'An incredible partnership Their marketing strategies gave Daqdooka Restaurant a massive boost in the market. Truly a professional and creative team',
+    name:'Mr:Saeed Daqdooka',
+    role: 'Daqdooka Restaurant'
   },
   {
     rating:'4.7',
+    about:'Our brand K&L achieved remarkable growth thanks to their innovative marketing approach. They truly know how to target the right audience and deliver results.',
+    name:'Mr:Mohamed Kerat',
+    role: ' K&L'
+  },
+  {
+    rating:'4.8',
+    about:'Working with this agency was the best investment for Teta Restaurant. They captured our authentic vibe and brought in more customers than we expected. Great job',
+    name:'Mr: Mahmoud El Mosally',
+    role: 'Teta Restaurant'
+  },
+  {
+    rating:'4.8',
     about:'Feugiat malesuada convallis egestas bibendum. Justo sit mattis sit suspendisse non fermentum egestas morbi sit. Pretium placerat elementum dignissim vel.',
-    name:'Supria Sakura',
-    role: 'Head Designer'
-  },
-  {
-    rating:'4.8',
-    about:'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et',
     name:'John Doe',
     role: 'software developer'
   },
   {
     rating:'4.8',
-    about:'Feugiat malesuada convallis egestas bibendum. Justo sit mattis sit suspendisse non fermentum egestas morbi sit. Pretium placerat elementum dignissim vel.',
-    name:'John Doe',
-    role: 'software developer'
-  },
-  {
-    rating:'4.8',
-    about:'Augue purus malesuada pulvinar faucibus vel id hac. Sed duis sit vitae platea nulla nunc egestas pellentesque et',
-    name:'John Doe',
-    role: 'software developer'
+    about:'They helped me build a professional digital presence that truly reflects my medical expertise. Their marketing strategy increased patient trust and significantly expanded my clinics reach',
+    name:'Dr. Karim Ayman',
+    role: 'Medical Doctor'
   },
 ]
