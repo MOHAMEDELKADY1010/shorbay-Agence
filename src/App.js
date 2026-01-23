@@ -8,6 +8,7 @@ import Hero from './section/Hero';
 import Offer from './section/Offer';
 import Protifilio from './section/Protifilio';
 import Reviews from './section/Reviews';
+import WhatsAppButton from './section/WhatsAppButton';
 
 export default function App() {
   return (
@@ -25,7 +26,7 @@ export default function App() {
     <Cta/>
     </div>
     <Footer/>
-
+  <WhatsAppButton/>
   </>
   )
 }
