@@ -23,7 +23,7 @@ const ChatBot = ({ onClose }) => {
       setTimeout(() => {
         setMessages(prev => [
           ...prev,
-          { from: 'bot', text: 'شكرًا، سنساعدك قريباً!' },
+          { from: 'bot', text: 'استنا لما اسئل المستر😂ر  ' },
         ])
       }, 500)
     }

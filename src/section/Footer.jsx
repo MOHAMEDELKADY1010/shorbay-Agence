@@ -142,16 +142,16 @@ const Footer = () => {
 
           {/* Social */}
           <div className="flex justify-center gap-6 text-2xl pt-4">
-            <FaFacebook />
-            <FaTwitter />
-            <FaLinkedin />
-            <FaInstagram />
+            <FaFacebook  className="hover:text-themegreen" />
+            <FaTwitter className="hover:text-themegreen "/>
+            <FaLinkedin  className="hover:text-themegreen"/>
+            <FaInstagram  className="hover:text-themegreen"/>
           </div>
         </div>
 
         {/* ================= Bottom ================= */}
         <div className="border-t border-gray-800 mt-12 pt-6 flex flex-col md:flex-row gap-4 items-center justify-between text-gray-400 text-sm">
-          <p>© 2026 MoQady. All rights reserved.</p>
+          <p>© 2024 Shorbagy. All rights reserved.</p>
           <ul className="flex gap-6">
             <li className="hover:text-themegreen">Terms</li>
             <li className="hover:text-themegreen">Privacy</li>
