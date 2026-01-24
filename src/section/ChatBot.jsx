@@ -29,7 +29,7 @@ const ChatBot = ({ onClose }) => {
     }
   }
 
-  const options = ['تواصل عبر واتساب', 'مواعيد', 'الأسعار', 'خدماتنا']
+  const options = ['تواصل عبر واتساب']
 
   return (
     <div className="fixed bottom-20 right-5 w-80 bg-white shadow-2xl rounded-xl flex flex-col z-50 border border-gray-200 overflow-hidden">
