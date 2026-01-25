@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react'
 
-const whatsappNumber = '201010394673' // رقمك على واتساب
+const whatsappNumber = '201100305570' // رقمك على واتساب
 
 const ChatBot = ({ onClose }) => {
   const [messages, setMessages] = useState([])
-  const [input, setInput] = useState('')
+  const [input] = useState('')
 
   // الرسالة الترحيبية تظهر بعد قليل عند فتح Chatbot
   useEffect(() => {
