@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/shorbay-Agence/static/css/main.12e14d0b.css",
-    "main.js": "/shorbay-Agence/static/js/main.16c215a7.js",
-    "static/js/453.c0dbd766.chunk.js": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js",
-    "static/media/hero.png": "/shorbay-Agence/static/media/hero.211392714ca272fe50ca.png",
-    "static/media/hero_bg.jpg": "/shorbay-Agence/static/media/hero_bg.202101d52af1fd0f1b2b.jpg",
-    "static/media/project2.jpg": "/shorbay-Agence/static/media/project2.c8de542e2dd44f58d938.jpg",
-    "static/media/project1.jpg": "/shorbay-Agence/static/media/project1.b3f2954a7831ad21938e.jpg",
-    "static/media/project3.jpg": "/shorbay-Agence/static/media/project3.62442e8e7b59c938ddad.jpg",
-    "static/media/project4.jpg": "/shorbay-Agence/static/media/project4.9f29f236da8bcac3c26e.jpg",
-    "static/media/logo5.png": "/shorbay-Agence/static/media/logo5.256163abad73091d0434.png",
-    "static/media/logo8.png": "/shorbay-Agence/static/media/logo8.8dba3ca4005b5060bfec.png",
-    "static/media/logo6.png": "/shorbay-Agence/static/media/logo6.2c272bdb7c98885fad7e.png",
-    "static/media/logo3.png": "/shorbay-Agence/static/media/logo3.bc9b5d92c1c0917dba8d.png",
-    "static/media/logo1.png": "/shorbay-Agence/static/media/logo1.84d28bbc434e9780b634.png",
-    "static/media/about.jpg": "/shorbay-Agence/static/media/about.bdd955cb28a57715ae9a.jpg",
-    "static/media/logo4.png": "/shorbay-Agence/static/media/logo4.12aafe8fb6e366061fa1.png",
-    "static/media/logo2.png": "/shorbay-Agence/static/media/logo2.0ed464930c7ef955df62.png",
-    "index.html": "/shorbay-Agence/index.html",
-    "main.12e14d0b.css.map": "/shorbay-Agence/static/css/main.12e14d0b.css.map",
-    "main.16c215a7.js.map": "/shorbay-Agence/static/js/main.16c215a7.js.map",
-    "453.c0dbd766.chunk.js.map": "/shorbay-Agence/static/js/453.c0dbd766.chunk.js.map"
+    "main.css": "./static/css/main.12e14d0b.css",
+    "main.js": "./static/js/main.93ca52ed.js",
+    "static/js/453.c0dbd766.chunk.js": "./static/js/453.c0dbd766.chunk.js",
+    "static/media/hero.png": "./static/media/hero.211392714ca272fe50ca.png",
+    "static/media/hero_bg.jpg": "./static/media/hero_bg.202101d52af1fd0f1b2b.jpg",
+    "static/media/project2.jpg": "./static/media/project2.c8de542e2dd44f58d938.jpg",
+    "static/media/project1.jpg": "./static/media/project1.b3f2954a7831ad21938e.jpg",
+    "static/media/project3.jpg": "./static/media/project3.62442e8e7b59c938ddad.jpg",
+    "static/media/project4.jpg": "./static/media/project4.9f29f236da8bcac3c26e.jpg",
+    "static/media/logo5.png": "./static/media/logo5.256163abad73091d0434.png",
+    "static/media/logo8.png": "./static/media/logo8.8dba3ca4005b5060bfec.png",
+    "static/media/logo6.png": "./static/media/logo6.2c272bdb7c98885fad7e.png",
+    "static/media/logo3.png": "./static/media/logo3.bc9b5d92c1c0917dba8d.png",
+    "static/media/logo1.png": "./static/media/logo1.84d28bbc434e9780b634.png",
+    "static/media/about.jpg": "./static/media/about.bdd955cb28a57715ae9a.jpg",
+    "static/media/logo4.png": "./static/media/logo4.12aafe8fb6e366061fa1.png",
+    "static/media/logo2.png": "./static/media/logo2.0ed464930c7ef955df62.png",
+    "index.html": "./index.html",
+    "main.12e14d0b.css.map": "./static/css/main.12e14d0b.css.map",
+    "main.93ca52ed.js.map": "./static/js/main.93ca52ed.js.map",
+    "453.c0dbd766.chunk.js.map": "./static/js/453.c0dbd766.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12e14d0b.css",
-    "static/js/main.16c215a7.js"
+    "static/js/main.93ca52ed.js"
   ]
 }
